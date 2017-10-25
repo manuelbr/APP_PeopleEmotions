@@ -39,7 +39,7 @@ Desde que nacemos, las películas que vemos son una fuente más de conocimiento 
 
 Teniendo lo anterior como marco de contexto, es evidente que la influencia que ejerce el cine sobre las personas es muy grande, pudiendo entrar en ejemplos concretos que ayuden a mejorar esta definición. Por ejemplo: hay personas que eligen su futura profesión por lo mucho que les marcó los personajes o situaciones que pudo ver en una sesión de cine cuando eran pequeños [[1]](http://noticias.universia.net.mx/en-portada/noticia/2015/02/20/1120263/6-peliculas-inspiradoras-construir-carrera-suenos.html).
 
-Además, en nuestra sociedad actual, el autor de este trabajo tiene conocidos que han encontrado su filosofía de vida en la forma de actuación de sus héroes en el celuloide, personas que marcan unos objetivos en su vida conforme a lo que les ha enseñado cierta cinta. Es tal la profundidad de las raíces que ha extendido el cine sobre nosotros, que incluso hay personas que han cambiado de creencias, de espiritualidad por causa de él [2](http://www.religionenlibertad.com/era-ateo-se-puso-a-ver-una-pelicula-blasfema-para-reirse-41654.htm).
+Además, en nuestra sociedad actual, el autor de este trabajo tiene conocidos que han encontrado su filosofía de vida en la forma de actuación de sus héroes en el celuloide, personas que marcan unos objetivos en su vida conforme a lo que les ha enseñado cierta cinta. Es tal la profundidad de las raíces que ha extendido el cine sobre nosotros, que incluso hay personas que han cambiado de creencias, de espiritualidad por causa de él [[2]](http://www.religionenlibertad.com/era-ateo-se-puso-a-ver-una-pelicula-blasfema-para-reirse-41654.htm).
 
 La mencionada profundidad de afectación del cine en los humanos, además de producirse por las ventajas como medio de comunicación que posee (que son muchas), también viene dado por un decremento en la importancia que le dan las nuevas generaciones a la familia, los educadores de la escuela o la misma religión. Este  ha sido el factor del cual ha ido de la mano el cine a lo largo de sus últimos cincuenta años de evolución. Al tiempo que decrecía el valor que se le daba a los temas mencionados, el cine se iba introduciendo como medio suplementario al que acudir, en sustitución de las fuentes de educación que suponían estos conceptos. He aquí la principal razón de la profundidad de la cinematografía en nuestra vida. Se introduce de forma tan ubicua en la vida humana, que afecta a muchos de los aspectos de ésta. Pero si el cine se entiende como una forma de narrar historias o acontecimientos (burdamente expresado), ¿de qué forma consigue trascender la pantalla de un medio audiovisual, para afectar a tan profundo nivel? La respuesta es sencilla: a través de las emociones.
 
@@ -47,7 +47,7 @@ La mencionada profundidad de afectación del cine en los humanos, además de pro
 
 En más de una ocasión, he podido escuchar la expresión: “El cine es el material del que se hacen los sueños”. Esta afirmación no es fortuita, no es producto del extremismo de un apasionado por el mundo del celuloide (aunque hasta cierto punto así sea), sino que es algo que psicólogos y expertos han podido observar en los efectos de las películas sobre las personas que las ven.
 
-Tal y como expresa Valeria Sabater, psicóloga y escritora, en su artículo “El cine, fábrica de emociones” [3](https://lamenteesmaravillosa.com/el-cine-fabrica-de-emociones/), el cine es una industria de emociones, dado que como espectadores expresamos nuestro deseo de vernos representados en las historias, personajes y épocas que desfilan por las pantallas, deseamos que nos hagan reir, llorar, asustarnos, enamorarnos, enfadarnos, avergonzarnos (en algunos casos) y en definitiva, y como emoción general: disfrutar. Este ha sido el principal reclamo que ha permitido al mundo del cine desarrollarse como lo ha hecho a lo largo de toda su vida, como arte. Y éste lo ha aprovechado de manera sobresaliente: hoy en día tenemos tal cantidad de productos cinematográficos que podemos diferenciarlos en función del público emocional al que van dirigidos. Por ejemplo: películas de terror psicológico (para personas con altos índices emocionales en temor, sorpresa y disgusto) o películas de acción tipo “blockbuster” (para personas con las emociones de placer, sorpresa, temor y tristeza como predominantes).
+Tal y como expresa Valeria Sabater, psicóloga y escritora, en su artículo “El cine, fábrica de emociones” [[3]](https://lamenteesmaravillosa.com/el-cine-fabrica-de-emociones/), el cine es una industria de emociones, dado que como espectadores expresamos nuestro deseo de vernos representados en las historias, personajes y épocas que desfilan por las pantallas, deseamos que nos hagan reir, llorar, asustarnos, enamorarnos, enfadarnos, avergonzarnos (en algunos casos) y en definitiva, y como emoción general: disfrutar. Este ha sido el principal reclamo que ha permitido al mundo del cine desarrollarse como lo ha hecho a lo largo de toda su vida, como arte. Y éste lo ha aprovechado de manera sobresaliente: hoy en día tenemos tal cantidad de productos cinematográficos que podemos diferenciarlos en función del público emocional al que van dirigidos. Por ejemplo: películas de terror psicológico (para personas con altos índices emocionales en temor, sorpresa y disgusto) o películas de acción tipo “blockbuster” (para personas con las emociones de placer, sorpresa, temor y tristeza como predominantes).
 
 Cuando se habla de “porcentajes emocionales”, es necesario clarificar que nos referimos a las valoraciones puntuales que nuestro estado emocional asigna a cada emoción que lo conforma. Por supuesto, dichas valoraciones son cambiantes en el tiempo de forma diversa y de forma muy difícil de predecir. Con ello establecemos uno de los principales estamentos de este trabajo, y que se irá nombrando a lo largo del desarrollo de esta memoria: Cada persona se siente de una forma emocional distinta en función de un momento determinado de su vida.
 
@@ -57,115 +57,111 @@ La anterior afirmación provoca que podamos observar un hecho muy interesante: L
 
 Como se ha dicho anteriormente, las emociones son una clara característica del cine, un objetivo que debe perseguir cualquier película. Sin embargo, ¿podemos cuantificar y enumerar todas aquellas que se pueden ver afectadas durante el visionado de una película? En cierto modo, así es.
 
-Parafraseando a Laura Rodríguez en el capítulo cinco de su libro: “La Psicología de la emoción" [4](http://www.psicocode.com/resumenes/1EMOCION.pdf): La gran mayoría de autores coinciden en que existen unas emociones primarias, elementales o básicas. La cantidad exacta de estas emociones no ha sido fijada en torno a un acuerdo, sin embargo, como aceptado general se tiene un número de seis, entre las que podemos destacar: La ira, alegría, asco, tristeza, sorpresa, miedo y desprecio. Éstas son producto de los siglos de evolución humana ya que tienen carácter universal para toda nuestra raza.
+Parafraseando a Laura Rodríguez en el capítulo cinco de su libro: “La Psicología de la emoción" [[4]](http://www.psicocode.com/resumenes/1EMOCION.pdf): La gran mayoría de autores coinciden en que existen unas emociones primarias, elementales o básicas. La cantidad exacta de estas emociones no ha sido fijada en torno a un acuerdo, sin embargo, como aceptado general se tiene un número de seis, entre las que podemos destacar: La ira, alegría, asco, tristeza, sorpresa, miedo y desprecio. Éstas son producto de los siglos de evolución humana ya que tienen carácter universal para toda nuestra raza.
 
 Tal y como sostiene Carroll Izard (reputado investigador psicólogo, famoso por sus contribuciones al “Sistema de codificación de emociones extremadamente discriminativas”), existen unos requisitos básicos que debe cumplir cualquier emoción para ser considerada como básica. A saber:
 
-	* “Ser específica y distintiva en cuanto a su origen en el sistema neuronal”.
-	* “Poseer una expresión facial específica y distintiva”.
-	* “Poseer sentimientos específicos y distintivos como producto de dicha emoción”.
-	* “Derivar de procesos biológicos evolutivos”.
-	* “Manifestar propiedades de motivación y organización, propias de funciones adaptativas del ser humano”.
+* “Ser específica y distintiva en cuanto a su origen en el sistema neuronal”.
 
-Pese a estas características, los psicólogos no consiguen ponerse de acuerdo en la totalidad de las emociones que cumplen con dichos requisitos. Principalmente, a causa de la sorpresa. El origen de esta controversia viene dado porque algunos autores (como Ortony, Clore y Collins) sostienen que no es emoción como tal, puesto que no se le puede asignar valor: es neutra. Por otro lado, hay otros autores (como Teigen y Keren [5](https://philpapers.org/rec/TEISLP))  que piensan que es una “emoción hedónicamente indeterminada”, es decir: no puede ser definida concretamente y asignarle unas causas fijas.
+* “Poseer una expresión facial específica y distintiva”.
+
+* “Poseer sentimientos específicos y distintivos como producto de dicha emoción”.
+
+* “Derivar de procesos biológicos evolutivos”.
+
+* “Manifestar propiedades de motivación y organización, propias de funciones adaptativas del ser humano”.
+
+Pese a estas características, los psicólogos no consiguen ponerse de acuerdo en la totalidad de las emociones que cumplen con dichos requisitos. Principalmente, a causa de la sorpresa. El origen de esta controversia viene dado porque algunos autores (como Ortony, Clore y Collins) sostienen que no es emoción como tal, puesto que no se le puede asignar valor: es neutra. Por otro lado, hay otros autores (como Teigen y Keren [[5]](https://philpapers.org/rec/TEISLP))  que piensan que es una “emoción hedónicamente indeterminada”, es decir: no puede ser definida concretamente y asignarle unas causas fijas.
 
 El autor de este trabajo, desde su experiencia a la hora de realizar el mismo, se basará en esta última definición para la sorpresa, dado que desde su punto de vista, la sorpresa es muy subjetiva como emoción, por el hecho de poder producirse por ignorancia, por desconocimiento de hechos, por falta de atención, etcétera. Sin embargo, es indudable que debe tratarse como emoción, dado que el sorprenderse es una de las situaciones emocionales más habituales cuando una persona ve una película, es algo que es tangible a los ojos de un observador. Por lo tanto, la sorpresa se tratará como factor a tener en cuenta a lo largo del proyecto, pero no como algo evaluable dado el diverso abanico de posibilidades que pueden darse con respecto a su causa.
 
-Sin embargo, si vemos las aportaciones hechas por otros psicólogos en el campo más concreto del cine, como los de Mª del Carmen Gutiérrez Moar, Mª del Carmen Pereira Domínguez y Luis Fernando Valero Iglesias en su trabajo: “El Cine como instrumento de alfabetización emocional” [6](http://consumoetico.webs.uvigo.es/textos/textos/emociones.pdf), podemos observar que hay otros conceptos que podemos reconocer como emociones en el ser humano cuando ve una película. Dichos autores resumen en el siguiente recuadro cuáles son las impresiones relacionadas íntimamente con la actividad cinematográfica:
+Sin embargo, si vemos las aportaciones hechas por otros psicólogos en el campo más concreto del cine, como los de Mª del Carmen Gutiérrez Moar, Mª del Carmen Pereira Domínguez y Luis Fernando Valero Iglesias en su trabajo: “El Cine como instrumento de alfabetización emocional” [[6]](http://consumoetico.webs.uvigo.es/textos/textos/emociones.pdf), podemos observar que hay otros conceptos que podemos reconocer como emociones en el ser humano cuando ve una película. Dichos autores resumen en el siguiente recuadro cuáles son las impresiones relacionadas íntimamente con la actividad cinematográfica:
 
 ![](imagenes/cuadro1.jpg)
 
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=10cm]{imagenes/cuadro1}
-	\caption{Clasificación de las emociones básicas}
-	\label{fig:cuadro1}
-\end{figure}
+Es evidente, tras observar el recuadro de que se han añadido o modificado ciertas emociones con respecto a lo establecido como “emociones primarias” por Laura Rodríguez [[7]](http://www.psicocode.com/resumenes/1EMOCION.pdf). Esto es debido a que si profundizamos llegamos a que:
 
-Es evidente, tras observar el recuadro de que se han añadido o modificado ciertas emociones con respecto a lo establecido como “emociones primarias” por Laura Rodríguez [7](http://www.psicocode.com/resumenes/1EMOCION.pdf). Esto es debido a que si profundizamos llegamos a que:
 
-\begin{itemize}
-	\item El asco y el desprecio pueden verse como una manifestación del disgusto, como emoción.
-	\item El placer es la emoción predominante en el cine, aquella que busca cualquier película como resultado del objetivo primordial: el entretenimiento.
-	\item En cuanto al amor, no se debe entender como concepto a representar dentro de una película, sino como el estado emocional del enamoramiento, ése en el que entramos cuando sentimos cariño hacia un personaje de la misma.
-	\item Por último, la vergüenza también debe ser tomada como emoción, dentro del ámbito en el que nos encontramos, dado que es muy habitual hablar de situaciones que nos avergüenzan al ver cierta película, al ponernos en la piel de un personaje que realiza o sufre una acción bochornosa en determinada situación.
-\end{itemize}
+* El asco y el desprecio pueden verse como una manifestación del disgusto, como emoción.
 
-Poco a poco, vamos configurando el espectro emocional que contempla el mundo del cine. Sin embargo, aún no lo tenemos completo, dado que el anterior recuadro, pese a profundizar de forma notable, tiene cierta carencia que puede ser paliada gracias al trabajo realizado por Laura Rodríguez en su: “La Psicología de la emoción” [7](http://www.psicocode.com/resumenes/1EMOCION.pdf): no se contempla la alegría, cuando es una emoción primaria y que es primordial para entender las afecciones en el mundo del celuloide.
+* El placer es la emoción predominante en el cine, aquella que busca cualquier película como resultado del objetivo primordial: el entretenimiento.
+
+* En cuanto al amor, no se debe entender como concepto a representar dentro de una película, sino como el estado emocional del enamoramiento, ése en el que entramos cuando sentimos cariño hacia un personaje de la misma.
+
+* Por último, la vergüenza también debe ser tomada como emoción, dentro del ámbito en el que nos encontramos, dado que es muy habitual hablar de situaciones que nos avergüenzan al ver cierta película, al ponernos en la piel de un personaje que realiza o sufre una acción bochornosa en determinada situación.
+
+
+Poco a poco, vamos configurando el espectro emocional que contempla el mundo del cine. Sin embargo, aún no lo tenemos completo, dado que el anterior recuadro, pese a profundizar de forma notable, tiene cierta carencia que puede ser paliada gracias al trabajo realizado por Laura Rodríguez en su: “La Psicología de la emoción” [[7]](http://www.psicocode.com/resumenes/1EMOCION.pdf): no se contempla la alegría, cuando es una emoción primaria y que es primordial para entender las afecciones en el mundo del celuloide.
 
 Tras este análisis, podemos concluir que las emociones que pueden afectar a un espectador mientras ve una película, son: la ira, la tristeza, el placer, el amor, el temor, la sorpresa, el disgusto, la vergüenza y la alegría. Además de estos factores, hay otros que pueden hacer que dichas emociones se vean más o menos afectadas en función de ellos: cuando nos vemos interesados en un concepto determinado y vemos una película que trata dicho concepto: Los resultados afectivos son mucho más notorios, puesto que el espectador es más receptivo.
 
 En definitiva, podemos ver claramente que cuando se ve una película, hay muchísimas variables que pueden configurar de una u otra manera tu espectro emocional de cara a que te afecte de una u otra forma, en mayor o menor medida. Por tanto es muy complejo replicar el mismo efecto sobre diferentes personas, dado que cada una de esas configuraciones tiene muchas variaciones.
 
-Con el objetivo de entender mejor cómo es el efecto emocional que produce el cine en las personas, es necesario hablar de forma independiente de cada una de las emociones descritas anteriormente [8](http://www.psicologia-online.com/) y [9](https://es.wikipedia.org/wiki/Alegr%C3%ADa_(emoci%C3%B3n):
+Con el objetivo de entender mejor cómo es el efecto emocional que produce el cine en las personas, es necesario hablar de forma independiente de cada una de las emociones descritas anteriormente [[8]](http://www.psicologia-online.com/) y [[9]](https://es.wikipedia.org/wiki/Alegr%C3%ADa_(emoci%C3%B3n):
 
 * Ira: “Reacción de irritación, furia o cólera causada por la indignación y el enojo de sentir vulnerados nuestros derechos”.
 
-\begin{itemize}
-	\item Es producida por causa de la rotura con los principios, compromisos, promesas con otras personas o con la propia libertad, en general. En el caso del cine, puede verse originada por visualización de escenas que representen estos actos, con respecto a los personajes.
-	\item Tiene como efecto un deseo impulsivo de hacer todo el daño posible a la causa del sentimiento de esta emoción.
-	\item Además, tiene un marcado carácter motivacional, en el sentido de que junto al miedo y el amor es la emoción más pasional.
-\end{itemize}
+	* Es producida por causa de la rotura con los principios, compromisos, promesas con otras personas o con la propia libertad, en general. En el caso del cine, puede verse originada por visualización de escenas que representen estos actos, con respecto a los personajes.
+
+	* Tiene como efecto un deseo impulsivo de hacer todo el daño posible a la causa del sentimiento de esta emoción.
+
+	* Además, tiene un marcado carácter motivacional, en el sentido de que junto al miedo y el amor es la emoción más pasional.
 
 * Tristeza: “Reacción a sucesos que son considerados como no placenteros, con carácter melancólico y de pesadumbre”.
 
-\begin{itemize}
-	\item Generalmente se ve como una emoción negativa para el ser humano. Sin embargo, hay estudios (como el de Benjamín Domínguez, de la Facultad de Psicología de la UNAM \cite{articulo3}), que la consideran como algo bueno y necesario para nuestro espectro emocional, por lo que podemos concluir que es una emoción que no tiene fijados efectos negativos en el ser humano. Exactamente igual pasa con esta emoción en el cine.
-	\item Es diferente al miedo, ya que éste se produce anticipándose a algo que puede o que va a ocurrir, mientras que la tristeza es posterior a ello. También está íntimamente relacionada con la ira, puesto que se presenta cuando no se encuentran culpables.
-\end{itemize}
+	* Generalmente se ve como una emoción negativa para el ser humano. Sin embargo, hay estudios (como el de Benjamín Domínguez, de la Facultad de Psicología de la UNAM [[10]](http://www.cyd.conacyt.gob.mx/260/articulos/tristeza.html)), que la consideran como algo bueno y necesario para nuestro espectro emocional, por lo que podemos concluir que es una emoción que no tiene fijados efectos negativos en el ser humano. Exactamente igual pasa con esta emoción en el cine.
+
+	* Es diferente al miedo, ya que éste se produce anticipándose a algo que puede o que va a ocurrir, mientras que la tristeza es posterior a ello. También está íntimamente relacionada con la ira, puesto que se presenta cuando no se encuentran culpables.
+
 
 * Temor: “Reacción ante un peligro presente e inminente, ligado por tanto al estímulo que lo genera”.
 
-\begin{itemize}
-	\item Generalmente es producida como advertencia hacia nuestra persona de que se aproxima un daño físico o psíquico. En el cine, esta definición puede ser tomada tal cual.
-	\item Está relacionada íntimamente con la inseguridad con respecto a poder manejar la situación peligrosa de la que nos advierte, ya sea de forma psíquica o física.
-\end{itemize}
+	* Generalmente es producida como advertencia hacia nuestra persona de que se aproxima un daño físico o psíquico. En el cine, esta definición puede ser tomada tal cual.
+
+	*	Está relacionada íntimamente con la inseguridad con respecto a poder manejar la situación peligrosa de la que nos advierte, ya sea de forma psíquica o física.
+
 
 * Placer: “Reacción producida por el disfrute de algún bien”.
 
-\begin{itemize}
-	\item Favorece la recepción e interpretación de los estímulos de nuestro entorno, de forma más positiva. Suele estar producido por la afinidad con el bien que se experimenta, y de algún modo, la identificación de alguna parte de nosotros mismos con él. En el cine puede verse como manifestación de muchas cosas: la afinidad con unos personajes, una historia, un escenario, una música, un desenlace, un romance, etcétera.
-	\item Es fugaz, puesto que nuestro cerebro no es capaz de mantenerla en percepción de forma continuada.
-\end{itemize}
+	* Favorece la recepción e interpretación de los estímulos de nuestro entorno, de forma más positiva. Suele estar producido por la afinidad con el bien que se experimenta, y de algún modo, la identificación de alguna parte de nosotros mismos con él. En el cine puede verse como manifestación de muchas cosas: la afinidad con unos personajes, una historia, un escenario, una música, un desenlace, un romance, etcétera.
 
-* Amor: “Es el afecto que sentimos por otra persona, animal, cosa o idea.  Pueden distinguirse dos tipos de amor/cariño: apasionado, relacionada con el enamoramiento, y el amor de compañero que es menos intenso pero que conforma una amalgama de sentimientos de profundo cariño: la ternura, el compromiso, la intimidad, el afecto, etcétera”.
+	* Es fugaz, puesto que nuestro cerebro no es capaz de mantenerla en percepción de forma continuada.
 
-\begin{itemize}
-	\item Puede implicar ambas definiciones de amor, el apasionado y el compañero. Dentro del cine se suele experimentar mayoritariamente el segundo tipo, ya que el apasionado viene como consecuencia de tener una relación íntima y cercana de forma presencial.
+* Amor: “Es el afecto que sentimos por otra persona, animal, cosa o idea. Pueden distinguirse dos tipos de amor/cariño: apasionado, relacionada con el enamoramiento, y el amor de compañero que es menos intenso pero que conforma una amalgama de sentimientos de profundo cariño: la ternura, el compromiso, la intimidad, el afecto, etcétera”.
+
+	* Puede implicar ambas definiciones de amor, el apasionado y el compañero. Dentro del cine se suele experimentar mayoritariamente el segundo tipo, ya que el apasionado viene como consecuencia de tener una relación íntima y cercana de forma presencial.
 
 	Por el contrario, es habitual hablar del cariño que profesamos a ciertos personajes cinematográficos, cariño de compañero que puede ser originado en nosotros por causa de la ternura, el afecto, el carisma, la vulnerabilidad, etcétera, que demuestran en pantalla. Por ello, cuando se habla de amor como emoción producida por un producto del mundo del cine, lo entenderemos como de compañero.
-	\item Las personas inseguras y dependientes son especialmente vulnerables al amor.
-\end{itemize}
+
+	* Las personas inseguras y dependientes son especialmente vulnerables al amor.
 
 * Sorpresa: “Es la reacción causada por algo imprevisto o extraño, cuyos efectos pueden ser positivos y negativos, de forma independiente”.
 
-\begin{itemize}
-	\item Como se ha explicado a lo largo de este capítulo, es una emoción neutra, sin valor determinista ni en un sentido positivo ni negativo y que es producida por la ignorancia del sujeto por lo que es casi imposible asignar causantes más concretos que esta definición general. Por esta razón es muy difícil preverla dentro del visionado de una película, aunque podemos verla manifestada en giros de guión, sucesos que ocurren a personajes a los que se tiene cariño, etcétera.
-	\item Es la emoción más breve de todas, más incluso que el placer ya que se produce rápidamente, de forma súbita y desaparece con la misma rapidez con la que llegó, una vez producidos sus efectos.
-	\item Al tiempo que se produce dicha emoción, somos testigos de un incremento en nuestra actividad mental para lograr encontrar los causantes de la aparición de esta emoción.
-\end{itemize}
+	* Como se ha explicado a lo largo de este capítulo, es una emoción neutra, sin valor determinista ni en un sentido positivo ni negativo y que es producida por la ignorancia del sujeto por lo que es casi imposible asignar causantes más concretos que esta definición general. Por esta razón es muy difícil preverla dentro del visionado de una película, aunque podemos verla manifestada en giros de guión, sucesos que ocurren a personajes a los que se tiene cariño, etcétera.
+
+	* Es la emoción más breve de todas, más incluso que el placer ya que se produce rápidamente, de forma súbita y desaparece con la misma rapidez con la que llegó, una vez producidos sus efectos.
+
+	* Al tiempo que se produce dicha emoción, somos testigos de un incremento en nuestra actividad mental para lograr encontrar los causantes de la aparición de esta emoción.
 
 * Disgusto: “Es la respuesta emocional causada por la repulsión a algo o alguien, o por una impresión desagradable y suele venir acompañada por expresiones faciales características, como fruncir el ceño o arrugar la nariz”.
 
-\begin{itemize}
-	\item Implica el rechazo con respecto al causante de la emoción. En el cine, es muy usual que esta emoción se vea afectada por causa de la visualización de sucesos o hechos que nos desagradan. En este sentido, es una de las desventajas del medio audiovisual: todo es tan directo y sin filtros de cara a nuestra mente, que en algunos casos podemos vernos afectados profundamente por aquello que percibimos a través de las pantallas.
-	\item Como se ha dicho en la definición, es una de las emociones en las que hay un marcado carácter fisiológico como respuesta.
-	\item Suele estar producido por el desdén, el desprecio, el asco, aborrecimiento, aversión… etcétera.
-\end{itemize}
+	* Implica el rechazo con respecto al causante de la emoción. En el cine, es muy usual que esta emoción se vea afectada por causa de la visualización de sucesos o hechos que nos desagradan. En este sentido, es una de las desventajas del medio audiovisual: todo es tan directo y sin filtros de cara a nuestra mente, que en algunos casos podemos vernos afectados profundamente por aquello que percibimos a través de las pantallas.
+
+	* Como se ha dicho en la definición, es una de las emociones en las que hay un marcado carácter fisiológico como respuesta.
+
+	* Suele estar producido por el desdén, el desprecio, el asco, aborrecimiento, aversión… etcétera.
 
 * Vergüenza: “Es la reacción propia del ser humano ante el conocimiento consciente de deshonor, desgracia o condenación”.
 
-\begin{itemize}
-	\item Puede venir producida por los sentimientos de culpabilidad, molestia, disgusto, el remordimiento, la humillación, etcétera. Su aparición durante el visionado de una película tiene causas muy parecidas a las del disgusto, cuando vemos reflejados en pantalla hechos, situaciones, personajes que nos producen una autorreflexión acerca de nuestra afinidad con lo que vemos y que tiene resultados negativos como conclusión de esa auto-crítica.
-	\item Está íntimamente relacionado con la tristeza y el temor, ya que éstas suelen presentarse como efectos posteriores a la percepción de vergüenza.
-\end{itemize}
+	* Puede venir producida por los sentimientos de culpabilidad, molestia, disgusto, el remordimiento, la humillación, etcétera. Su aparición durante el visionado de una película tiene causas muy parecidas a las del disgusto, cuando vemos reflejados en pantalla hechos, situaciones, personajes que nos producen una autorreflexión acerca de nuestra afinidad con lo que vemos y que tiene resultados negativos como conclusión de esa auto-crítica.
+
+	* Está íntimamente relacionado con la tristeza y el temor, ya que éstas suelen presentarse como efectos posteriores a la percepción de vergüenza.
 
 * Alegría: “Es la emoción que produce un estado interior fresco y luminoso, que genera un bienestar general, altos niveles de energía y una poderosa disposición”.
 
-\begin{itemize}
-	\item Suele estar producida por aquellos eventos o situaciones que nos resultan agradables o que nos impiden cualquier tipo de malestar. Podemos distinguir dos tipos de alegría: la hilarante que produce risas y carcajadas y la asociada al bienestar general del sujeto, producido por los factores anteriormente explicados.
-	\item En el mundo del cine suele verse como la consecuencia del alivio, de la mezcla entre nostalgia y sorpresa, etcétera,  relacionadas con los personajes o situaciones que vemos reflejados.
-\end{itemize}
+	* Suele estar producida por aquellos eventos o situaciones que nos resultan agradables o que nos impiden cualquier tipo de malestar. Podemos distinguir dos tipos de alegría: la hilarante que produce risas y carcajadas y la asociada al bienestar general del sujeto, producido por los factores anteriormente explicados.
+
+	* En el mundo del cine suele verse como la consecuencia del alivio, de la mezcla entre nostalgia y sorpresa, etcétera,  relacionadas con los personajes o situaciones que vemos reflejados.
 
 ## Finalidad del arte
 
@@ -179,12 +175,11 @@ Sin embargo, hay tantas posibilidades en cuanto a combinaciones emocionales que 
 
 El abanico de emociones (y medida de las mismas) que puede producir un producto cinematográfico en una persona es tan amplio y variado que casi nunca suele repetirse al volver a ver otra película diferente. La finalidad de este trabajo consiste en conseguir que persista en el tiempo la sensación de bienestar que se nos queda tras ver una película que nos ha hecho emocionarnos de cualquier forma. No se trata de replicar las mismas sensaciones que se produjeron al ver una cinta, con otra diferente, sino de asegurar la consonancia entre las emociones a las que afecta el filme, y nuestro propio estado emocional. Dado que el experimentar sentimientos no sólo depende del producto cinematográfico (tal y como hemos dicho antes, también depende del estado emocional de la persona que lo ve) los objetivos en líneas generales de este trabajo son:
 
-\begin{itemize}
-	\item La evaluación emocional de usuarios.
-	\item La recomendación de una película asociada al espectro emocional que demuestra el usuario.
-\end{itemize}
+* La evaluación emocional de usuarios.
 
-Sin embargo,el usuario no siempre tiene el tiempo ni las ganas necesarias para someterse a una evaluación que le defina emocionalmente primero, y que le sugiera una película en segundo lugar. Hay veces en las que simplemente necesitamos sugerencias instantáneas, que no tienen por qué venir relacionadas con cómo nos sentimos en un momento determinado. Es por ello, que un tercer objetivo de este trabajo, es el de conseguir una herramienta que permita descubrir películas (bajo ciertos contextos como: año de estreno, popularidad, valoración, etc) de forma instantánea. De esta manera y con todo lo anteriormente expresado, estaríamos hablando de un completo sistema de recomendación y descubrimiento de productos cinematográficos, que se adecuaría a las necesidades más básicas de cualquier persona con un mínimo interés en el séptimo arte.
+* La recomendación de una película asociada al espectro emocional que demuestra el usuario.
+
+Sin embargo, el usuario no siempre tiene el tiempo ni las ganas necesarias para someterse a una evaluación que le defina emocionalmente primero, y que le sugiera una película en segundo lugar. Hay veces en las que simplemente necesitamos sugerencias instantáneas, que no tienen por qué venir relacionadas con cómo nos sentimos en un momento determinado. Es por ello, que un tercer objetivo de este trabajo, es el de conseguir una herramienta que permita descubrir películas (bajo ciertos contextos como: año de estreno, popularidad, valoración, etc) de forma instantánea. De esta manera y con todo lo anteriormente expresado, estaríamos hablando de un completo sistema de recomendación y descubrimiento de productos cinematográficos, que se adecuaría a las necesidades más básicas de cualquier persona con un mínimo interés en el séptimo arte.
 
 Por último, es necesario remarcar el hecho de que éste no se trata de un proyecto que pretenda valerse de sí mismo para lograr su finalidad. Es decir: el autor de este trabajo ha aportado los conocimientos de ingeniería informática requeridos para generar una herramienta, que en manos de psicólogos y personal con conocimientos sobre emociones, pueda completar los objetivos anteriormente descritos. Debido al planteamiento del sistema que en este trabajo se propone, dichos especialistas sólo alterarían el contenido de la aplicación, de forma transparente y ajena a lo que ocurre con el código del software.   
 
@@ -194,17 +189,16 @@ Tras haber expuesto qué es lo que se pretende realizar, es hora de analizar si 
 
 Concienzudamente, tras explorar la amplia gama de webs y aplicaciones de sugerencia de películas se puede decir que no hay ningún producto que realice las mismas funciones exactas que el software que se quiere diseñar en este trabajo. La causa de esta diferencia radica principalmente en que estas aplicaciones o webs se dedican a sugerir películas a los usuarios en función de sus gustos: si les ha gustado una película de un género concreto, se busca otra parecida. En ellas no existe la componente emocional de la sugerencia, sólo lo hacen por gustos. Algunos de estos productos son:
 
-\begin{itemize}
-	\item IMDB: Tanto en su versión web como en aplicación, sugiere películas en base a gustos de usuarios, aunque posee una biblioteca de películas de las cuales se puede observar su información reunida en fichas: tal y como se pretende hacer en este trabajo.
-	\item Movie Genius: Tiene un sistema de sugerencia más potente que el anterior, ya que se basa en la recolección de datos de preferencia del usuario a través del uso de listas de películas. El usuario va seleccionando de esas listas aquellas que le interesan y se le sugiere en base a los datos que se infieren de ello. Aunque tiene una biblioteca de películas parecida a la del anterior producto, sigue sin tener la funcionalidad que el proyecto quiere aglutinar.
-\end{itemize}
+	* IMDB: Tanto en su versión web como en aplicación, sugiere películas en base a gustos de usuarios, aunque posee una biblioteca de películas de las cuales se puede observar su información reunida en fichas: tal y como se pretende hacer en este trabajo.
 
-Por otra parte, ya existe software de reconocimiento facial de emociones, como el que se quisiera integrar en este trabajo, para plataformas móviles. Es el caso de 'Smart Face and Emotion Recognition'. Su funcionamiento se basa en el análisis de las facciones del usuario a través del estudio de una serie de fotografías que se le toman. Además de ello, podemos encontrar tecnologías de implementación de herramientas de reconocimiento facial de emociones, como son: 'Affdex' [9](https://www.affectiva.com/product/affdex-for-market-research/), 'MoodMe' [10](http://www.mood-me.com/), 'InSight' [11](http://sightcorp.com/insight/) o 'CrowdSight' [12](http://sightcorp.com/crowdsight/). Aunque como puede verse, la oferta de kits de desarrollo de software de captura facial de emociones es muy amplia, casi ningún producto de oferta pública está disponible para el usuario común de plataformas móviles.
+	* Movie Genius: Tiene un sistema de sugerencia más potente que el anterior, ya que se basa en la recolección de datos de preferencia del usuario a través del uso de listas de películas. El usuario va seleccionando de esas listas aquellas que le interesan y se le sugiere en base a los datos que se infieren de ello. Aunque tiene una biblioteca de películas parecida a la del anterior producto, sigue sin tener la funcionalidad que el proyecto quiere aglutinar.
 
-Además de los mencionados paquetes de desarrollo para crear nuestras propias herramientas, hay productos 'cloud' (que poseen la funcionalidad descrita más arriba) que ya se venden al usuario como servicio. Es el caso de 'Affectiva' (la implementación de la empresa Affectiva de su kit 'Affdex' para su aplicación en entornos REST [13](https://www.affectiva.com/product/emotion-as-a-service/)), 'Kairos' [14](https://www.kairos.com/face-recognition-api), o 'Emotion API' (la apuesta de Microsoft Azure por las API de reconocimiento facial de emociones [15](https://www.kairos.com/face-recognition-api)).
+Por otra parte, ya existe software de reconocimiento facial de emociones, como el que se quisiera integrar en este trabajo, para plataformas móviles. Es el caso de 'Smart Face and Emotion Recognition'. Su funcionamiento se basa en el análisis de las facciones del usuario a través del estudio de una serie de fotografías que se le toman. Además de ello, podemos encontrar tecnologías de implementación de herramientas de reconocimiento facial de emociones, como son: 'Affdex' [[11]](https://www.affectiva.com/product/affdex-for-market-research/), 'MoodMe' [[12]](http://www.mood-me.com/), 'InSight' [[13]](http://sightcorp.com/insight/) o 'CrowdSight' [[14]](http://sightcorp.com/crowdsight/). Aunque como puede verse, la oferta de kits de desarrollo de software de captura facial de emociones es muy amplia, casi ningún producto de oferta pública está disponible para el usuario común de plataformas móviles.
+
+Además de los mencionados paquetes de desarrollo para crear nuestras propias herramientas, hay productos 'cloud' (que poseen la funcionalidad descrita más arriba) que ya se venden al usuario como servicio. Es el caso de 'Affectiva' (la implementación de la empresa Affectiva de su kit 'Affdex' para su aplicación en entornos REST [[15]](https://www.affectiva.com/product/emotion-as-a-service/)), 'Kairos' [[16]](https://www.kairos.com/face-recognition-api), o 'Emotion API' (la apuesta de Microsoft Azure por las API de reconocimiento facial de emociones [[17]](https://www.kairos.com/face-recognition-api)).
 
 Sin embargo tal y como se ha dicho, esta funcionalidad sería sólo una parte del complejo abanico que compone este proyecto, por lo que seguimos sin encontrar un producto que aúne las herramientas que a ojos del autor de este trabajo, son necesarias para cualquier persona con inquietudes cinéfilas.
 
-Tal y como podemos concluir, vemos que si bien hay aplicaciones y software en general, dedicado a la sugerencia de películas (que incluyen bibliotecas de películas, interacción social de usuarios, etcétera) nunca se tiene en cuenta el componente emocional del usuario como regla principal de sugerencia. Es cierto que productos como “Netflix” suelen hacer cuestionarios para obtener las tendencias emocionales de sus clientes [16](http://www.marca.com/tiramillas/cine-tv/2017/03/17/58cbc5b4e2704e39318b45bd.html), pero evaluando el espectro emocional humano como invariable, lo que provoca que no cumpla siempre con la finalidad que pretende la realización de estos Tests. Es evidente por ello que este trabajo presenta un producto innovador en el ámbito del desarrollo del software orientado a emociones. Además hay herramientas que realizan parte de las funciones que aquí se quieren aglomerar, aunque ninguna de ellas está orientada a la sugerencia emocional de películas y no están integradas en un único software con vistas a acumular funcionalidad.
+Tal y como podemos concluir, vemos que si bien hay aplicaciones y software en general, dedicado a la sugerencia de películas (que incluyen bibliotecas de películas, interacción social de usuarios, etcétera) nunca se tiene en cuenta el componente emocional del usuario como regla principal de sugerencia. Es cierto que productos como “Netflix” suelen hacer cuestionarios para obtener las tendencias emocionales de sus clientes [[18]](http://www.marca.com/tiramillas/cine-tv/2017/03/17/58cbc5b4e2704e39318b45bd.html), pero evaluando el espectro emocional humano como invariable, lo que provoca que no cumpla siempre con la finalidad que pretende la realización de estos Tests. Es evidente por ello que este trabajo presenta un producto innovador en el ámbito del desarrollo del software orientado a emociones. Además hay herramientas que realizan parte de las funciones que aquí se quieren aglomerar, aunque ninguna de ellas está orientada a la sugerencia emocional de películas y no están integradas en un único software con vistas a acumular funcionalidad.
 
 Tras tres años desde el día que me paré a pensar en el germen de este trabajo: 'La posibilidad de analizar emocionalmente a una persona y recomendarle una película que esté acorde a sus sentimientos en ese momento', ese concepto ha madurado, evolucionado y tomado forma. Esto que tiene entre las manos querido lector, es la realización física de ese sueño.
