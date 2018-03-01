@@ -4,7 +4,9 @@ Sistema de recomendación emocional y sugerencia de películas.
 
 ## Vídeo presentación demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5eLcHJLDlI8" frameborder="0" allow="encrypted-media" allowfullscreen> </iframe>
+<p align="center">
+  [![Vídeo de presentación demo](https://img.youtube.com/vi/naAwVLmm3Ag/0.jpg)](https://www.youtube.com/watch?v=naAwVLmm3Ag)
+</p>
 
 ## Resumen
 
