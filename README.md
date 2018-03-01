@@ -2,6 +2,10 @@
 
 Sistema de recomendación emocional y sugerencia de películas.
 
+## Vídeo presentación demo
+
+[![Vídeo de presentación demo](https://img.youtube.com/vi/naAwVLmm3Ag/0.jpg)](https://www.youtube.com/watch?v=naAwVLmm3Ag)
+
 ## Resumen
 
 ¿Por qué nos emocionamos con ciertas películas? Suele ocurrir que a veces, cuando una persona acude al cine a ver la proyección de una película no sabe cómo ni por qué pero acaba involucrándose emocionalmente con ella. Esto tiene fácil razonamiento: Las películas son emociones, están hechas de ellas, son su principal objetivo independientemente de su género o condición y cuando éstas conectan con las propias del espectador, éste experimenta en plenitud su finalidad: hacernos sentir.
